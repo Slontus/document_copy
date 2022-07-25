@@ -1,0 +1,2 @@
+xdotool windowactivate 65011722
+xdotool key n
